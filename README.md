@@ -15,6 +15,10 @@
 
 #### 📌 TLDR: Given the high revenue growth and current EBITDA of 8.2 % it is improbable in current conditions to miss the estimates as they are pretty reasonable
 
+### Order book and Tenders are important for further Revenue/EBITDA growth
+* Order book is more volatile in nature
+* The most important thing is that Tenders are growing as if the win rate is maintained/higher than now, the order book will follow
+
 #### 💡 If they want to miss EBITDA they would have to either:
 1) Have EBITDA margin lower than 5.7 %
 2) Lower Revenue CAGR in each segment by 7-9 % and have EBITDA margin lower than 6.2 %

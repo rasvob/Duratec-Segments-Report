@@ -11,7 +11,7 @@
 ### H1 2024 EBITDA Margin is 8.2 % and Revenue is 292.737m
 * EBITDA H1 2024 was 23.9m
 
-# ⚡ For the detailed analyis check the [Jupyter Notebook](https://github.com/rasvob/VSB-FEI-Fundamentals-of-Machine-Learning-Exercises/blob/master/fml_01.ipynb)
+# ⚡ For the detailed analyis check the [Jupyter Notebook](https://github.com/rasvob/Duratec-Segments-Report/blob/main/segments_analysis.ipynb)
 
 #### 📌 TLDR: Given the high revenue growth and current EBITDA of 8.2 % it is improbable in current conditions to miss the estimates as they are pretty reasonable
 

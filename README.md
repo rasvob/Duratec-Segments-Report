@@ -1,4 +1,6 @@
 # Duratec (DUR.AX) H2 2024 guidance analysis
+* [Twitter/X Thread](https://x.com/rasvob1/status/1761830021658739189?s=20)
+
 ## Created by Radek Svoboda
 * https://twitter.com/rasvob1
 * rasvob14@gmail.com
@@ -12,6 +14,7 @@
 * EBITDA H1 2024 was 23.9m
 
 # ⚡ For the detailed analyis check the [Jupyter Notebook](https://github.com/rasvob/Duratec-Segments-Report/blob/main/segments_analysis.ipynb)
+> You can run the code yourself using [Google Colab](https://colab.research.google.com/github/rasvob/Duratec-Segments-Report/blob/main/segments_analysis.ipynb)
 
 #### 📌 TLDR: Given the high revenue growth and current EBITDA of 8.2 % it is improbable in current conditions to miss the estimates as they are pretty reasonable
 
